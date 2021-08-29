@@ -2,7 +2,7 @@
 - 👀 We interested in ICT - Marketing - DevOps - SRE - Community building - Entrepreurship - Social Enterprise | DevOps Engineering | SRE | Docker Enthusiast | OpenSource Evangelist | Digital Poverty Fighting
 - 🌱 We currently work in Villa HOH Project for leading by the Digital
 - 💞️ We looking to collaborate on Dev Projects , IT , Startups growth 
-- 📫 How to reach us Site - II  https://www.villahoh.tech | Site - II https://www.mybizz.site | Full Contacts : linktr.ee/azonlignon |Appointrements : https://calendly.com/a-a/projetweb
+- 📫 How to reach us Site - II  https://www.villahoh.tech | Site - II https://www.mybizz.site | Full Contacts : linktr.ee/azonlignon |Appointrements : https://calendly.com/mybizz/15min
 
 <!---
 mybizz-site/mybizz-site is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
